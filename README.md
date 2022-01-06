@@ -4,7 +4,7 @@
 
 ### Numerical-Integration
 
-### Nonlinear_Equations[Newton_Raphson]
+### [Nonlinear_Equations[Newton_Raphson]](https://github.com/jesse-anderson/Python/blob/main/Array-Integration.py) <a name ="Array Integration">
 
 ### Symbolic-Integration
 
