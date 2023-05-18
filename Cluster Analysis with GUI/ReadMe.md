@@ -1,29 +1,30 @@
-﻿ReadMe. Txt
-########################
-Dependencies: 
-Tkinter
-Numpy
-Matplotlib
-Astropy
-sklearn.cluster/sklearn.neighbors
-########################
-Clustering Data sets taken from: http://cs.joensuu.fi/sipu/datasets/ 
-########################
-TESTING SIMPLE
-########################
-Click ‘Open File’ Button
-Open Matrix file ‘20clusters.txt’.
-Plot Matrix file using ‘Plot Matrix Button
--=-=-
-Click ‘Run Ripley’s K’ button
--=-=-
-Click ‘Run DBSCAN’ button
--=-=-
-Click ‘Run OPTICS’ button
--=-=-
-Click ‘Close Program’ button
-########################
-This python program creates a Tkinter GUI with several options to choose from.
+
+
+# Dependencies: 
+#### Tkinter
+#### Numpy
+#### Matplotlib
+#### Astropy
+#### sklearn.cluster/sklearn.neighbors
+
+### Clustering Data sets taken from: http://cs.joensuu.fi/sipu/datasets/ 
+
+## TESTING
+
+#### Click ‘Open File’ Button
+#### Open Matrix file ‘20clusters.txt’.
+#### Plot Matrix file using ‘Plot Matrix Button
+#### -=-=-
+#### Click ‘Run Ripley’s K’ button
+#### -=-=-
+#### Click ‘Run DBSCAN’ button
+#### -=-=-
+#### Click ‘Run OPTICS’ button
+#### -=-=-
+#### Click ‘Close Program’ button
+
+##PROGRAM OVERVIEW
+#### This python program creates a Tkinter GUI with several options to choose from.
 ########################
 Initially data is loaded into the program via a .txt file called ‘20clusters.txt’ by clicking Open File and selecting the location of this file in your computer. The text box next to the Open File button is populated by the path and name of the file selected. Upon loading in this file one clicks Plot Matrix which generates an XY plot of the data. If the data is not an XY matrix with two columns an error box will be created.
 ########################
