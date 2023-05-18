@@ -18,7 +18,7 @@
   
 #### The program utilizes libraries such as NumPy, Matplotlib, and scikit-learn for data processing, plotting, and clustering. It also includes functionalities to check file sizes, create folders for storing results, and display information messages in the GUI.
   
-### [Numerical Integration](https://github.com/jesse-anderson/Python/blob/main/Numerical-Integration.py) <a name ="Numerical Integration">
+## [Numerical Integration](https://github.com/jesse-anderson/Python/blob/main/Numerical-Integration.py) <a name ="Numerical Integration">
 
 #### Performs an integral with clear boundaries from number to number for a given function.
 #
@@ -34,7 +34,7 @@
 
 #### Performs an integral for a given data set using various methods(linear/spline) and also plots/interpolates the data. The interpolation used is linear, cubic, and nearest. The hope is to extend this interpolation to 3 dimensions and also include a delaunay triangulation at some point in the near future.
 #
-## [movegui](https://github.com/jesse-anderson/Python/blob/main/movegui.py) <a name ="movegui program">
+## [MoveGUI](https://github.com/jesse-anderson/Python/blob/main/movegui.py) <a name ="MoveGUI program">
 
 #### This program is designed to replicate some of the functionality of matlab's movegui function since I found myself using it nearly every time I plotted there to quickly see all of my graphs and check if there were any glaring issues with my outputted values.
 #
