@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<link rel = "stylesheet" type = "text/css"  href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+<div class = "Top">
+<h1 align = "center"> MSCS WEB SCRAPING!!!!</h1>
+</div>
+
+<h2 align = "center"> <b> CLASS SEARCH RESULTS</b>
+</h3>
+
+
+<a href = "../index.html"> Go back to main page</a>
+<p align = "center">
+
+</p>
+
+<p>
+<div class = "column">
+Professor Name
+<ol> {% for i in read[0] %}
+<li> 
+{{ i }} 
+</li>
+{% endfor %}
+</ol>
+</div>
+
+<div class = "column">
+Professor Email
+<ol> {% for i in read[1] %}
+<li> 
+<a href = "mailto:{{ i }}"> {{ i }} </a>
+</li>
+{% endfor %}
+</ol>
+</div>
+
+<div class = "column">
+Professor Schedule
+<ol> 
+{% for i in read[2] %}
+
+<li> 
+{% if i == [] %}
+No Schedule Found 
+{% else %}
+{{ i }}
+</li>
+{% endif %}
+
+{% endfor %}
+
+</ol>
+</div>
+
+<div class = "column">
+Professor Site
+<ol> {% for i in read[3] %}
+<li> 
+<a href = "{{ i }}"> {{ i }} </a>
+</li>
+{% endfor %}
+</ol>
+</div>
+</body>
+</html>

@@ -1,0 +1,33 @@
+body {
+	background-color: #FFFFFF
+}
+
+h2 {
+background-color: gray
+}
+
+.Top {
+background-color: lightblue;
+text-align:center;
+color: red
+}
+
+.column {
+  float: left;
+  width: 25%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+h3 {
+text-align: center
+}
+
+.search {
+text-align: center
+}

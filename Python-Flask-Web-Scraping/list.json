@@ -1,0 +1,523 @@
+{
+ "Teacher": [
+  "Rafail  Abramov",
+  "Danko  Adrovic",
+  "Anudeep  Arora",
+  "Will  Ash",
+  "Gerard  Awanou",
+  "Ben  Bakker",
+  "Tom  Benhamou",
+  "Martina  Bode",
+  "Jerry  Bona",
+  "Tabes  Bridges",
+  "Benjamin  Call",
+  "Alison  Castro Superfine",
+  "Alexey  Cheskidov",
+  "Alina Carmen  Cojocaru",
+  "Izzet  Coskun",
+  "Mimi  Dai",
+  "Shavila  Devi",
+  "Vi  Diep",
+  "Fred  Drueck",
+  "David  Dumas",
+  "Lawrence  Ein",
+  "Dale  Embers",
+  "James  Freitag",
+  "Alexander  Furman",
+  "Michael  Greenblatt",
+  "Daniel  Groves",
+  "Kyunghee  Han",
+  "Daniel  Ingebretson",
+  "Vishesh  Jain",
+  "Nathan  Jones",
+  "Olga  Kashcheyeva",
+  "Osama  Khalil",
+  "Evangelos  Kobotis",
+  "Anita  Kursell",
+  "Alexa  Lee-Hassan",
+  "Nicole  Looper",
+  "Dibyen  Majumdar",
+  "Danny  Martin",
+  "Mara  Martinez",
+  "Alycia  McNamara",
+  "McKinley  Meyer",
+  "Marcus  Michelen",
+  "Dhruv  Mubayi",
+  "Ronnie  Nagloo",
+  "Irina  Nenciu",
+  "David  Nicholls",
+  "Cheng  Ouyang",
+  "Jennifer  Pajda-De La O",
+  "Shokouh  Pourarian",
+  "Victor  Protsak",
+  "Lev  Reyzin",
+  "Julius  Ross",
+  "Laura  Schaposnik",
+  "Nolan  Schock",
+  "Erin  Schubert",
+  "Brooke  Shipley",
+  "Andrew  Shulman",
+  "Roman  Shvydkoy",
+  "Gilberto  Simpson",
+  "Geoffrey  Smith",
+  "Christof  Sparber",
+  "John  Steenbergen",
+  "Charles  Stibitz",
+  "Nicholas  Switala",
+  "Ramin  Takloo-Bighash",
+  "Ian  Tobasco",
+  "Kevin  Tucker",
+  "Gyorgy  Turan",
+  "Wouter  Van Limbeek",
+  "Jan  Verschelde",
+  "Liet  Vo",
+  "Jing  Wang",
+  "Kevin  Whyte",
+  "Anthony  Woldeit",
+  "Yichao  Wu",
+  "Jie  Yang",
+  "Min  Yang",
+  "Wenliang  Zhang",
+  "Ping-Shou  Zhong"
+ ],
+ "Email": [
+  "abramov@uic.edu",
+  "dadrov1@uic.edu",
+  "anudeep@uic.edu",
+  "wash@uic.edu",
+  "awanou@uic.edu",
+  "bakker@uic.edu",
+  "tomb@uic.edu",
+  "bodem@uic.edu",
+  "jbona@uic.edu",
+  "mbridg5@uic.edu",
+  "bcall@uic.edu",
+  "amcastro@uic.edu",
+  "acheskid@uic.edu",
+  "cojocaru@uic.edu",
+  "icoskun@uic.edu",
+  "mdai@uic.edu",
+  "sdevi@uic.edu",
+  "vdiep3@uic.edu",
+  "fdruec1@uic.edu",
+  "ddumas@uic.edu",
+  "ein@uic.edu",
+  "dembers@uic.edu",
+  "jfreitag@uic.edu",
+  "furman@uic.edu",
+  "greenbla@uic.edu",
+  "dgroves@uic.edu",
+  "hankh@uic.edu",
+  "dingeb2@uic.edu",
+  "visheshj@uic.edu",
+  "ncjones@uic.edu",
+  "kolga@uic.edu",
+  "okhalil@uic.edu",
+  "evangelo@uic.edu",
+  "akurse2@uic.edu",
+  "aleeha2@uic.edu",
+  "nrlooper@uic.edu",
+  "dibyen@uic.edu",
+  "dbmartin@uic.edu",
+  "maravmar@uic.edu",
+  "alyciam@uic.edu",
+  "mmeyer31@uic.edu",
+  "michelen@uic.edu",
+  "mubayi@uic.edu",
+  "jnagloo@uic.edu",
+  "nenciu@uic.edu",
+  "davidn@uic.edu",
+  "couyang@uic.edu",
+  "jpajda2@uic.edu",
+  "sharian@uic.edu",
+  "vp20@uic.edu",
+  "lreyzin@uic.edu",
+  "juliusro@uic.edu",
+  "schapos@uic.edu",
+  "nschoc2@uic.edu",
+  "eschub1@uic.edu",
+  "shipleyb@uic.edu",
+  "ashulm2@uic.edu",
+  "shvydkoy@uic.edu",
+  "gds1@uic.edu",
+  "geoff@uic.edu",
+  "sparber@uic.edu",
+  "jbergen@uic.edu",
+  "cstibitz@uic.edu",
+  "nswitala@uic.edu",
+  "rtakloo@uic.edu",
+  "itobasco@uic.edu",
+  "kftucker@uic.edu",
+  "gyt@uic.edu",
+  "wouter@uic.edu",
+  "jan@uic.edu",
+  "lietvo@uic.edu",
+  "jiwang12@uic.edu",
+  "kwhyte@uic.edu",
+  "woldeit1@uic.edu",
+  "yichaowu@uic.edu",
+  "jyang06@uic.edu",
+  "myang2@uic.edu",
+  "wlzhang@uic.edu",
+  "pszhong@uic.edu"
+ ],
+ "Teaching Schedule": [
+  [
+   "MCS 471MWF 11:00:00-11:50:00AH 306"
+  ],
+  [
+   "MCS 320MWF 14:00:00-14:50:00SCE 408",
+   "MCS 360MWF 10:00:00-10:50:00BH 308",
+   "STAT 101MWF 09:00:00-09:50:00LCF F004"
+  ],
+  [
+   "MATH 481MWF 10:00:00-10:50:00SH 220"
+  ],
+  [
+   "MATH 165MWF 14:00:00-14:50:00LCF F003",
+   "MATH 165MWF 08:00:00-08:50:00LCF F003",
+   "MATH 181MWF 15:00:00-15:50:00ARC 242"
+  ],
+  [
+   "MATH 210MWF 13:00:00-13:50:00AH 311",
+   "MATH 210MWF 14:00:00-14:50:00BH 304"
+  ],
+  [],
+  [
+   "MATH 504MWF 12:00:00-12:50:00AH 310"
+  ],
+  [
+   "MATH 181MWF 08:00:00-08:50:00ARC 241"
+  ],
+  [
+   "MATH 419MWF 11:00:00-11:50:00TH 304",
+   "MATH 535MWF 14:00:00-14:50:00AH 306"
+  ],
+  [
+   "MATH 181MWF 16:00:00-16:50:00ARC 242",
+   "MATH 181MWF 14:00:00-14:50:00ARC 242",
+   "MATH 210MWF 15:00:00-15:50:00BSB 335"
+  ],
+  [
+   "MATH 215MWF 09:00:00-09:50:00LH 201",
+   "MATH 215MWF 10:00:00-10:50:00LH 201"
+  ],
+  [
+   "MATH 141TR 09:00:00-10:50:00SEO 600",
+   "MTHT 591T 17:00:00-20:00:00AH 302"
+  ],
+  [],
+  [
+   "MATH 525MWF 11:00:00-11:50:00TH 308"
+  ],
+  [
+   "MATH 571MWF 13:00:00-13:50:00TH 308"
+  ],
+  [],
+  [
+   "MATH 125MWF 09:00:00-09:50:00LCD D002",
+   "MATH 160MWF 12:00:00-12:50:00LCD D004",
+   "MATH 165MWF 11:00:00-11:50:00LCD D004"
+  ],
+  [
+   "MATH 180MWF 08:00:00-08:50:00SES 201",
+   "MATH 180MWF 09:00:00-09:50:00SES 201",
+   "MATH 181MWF 11:00:00-11:50:00ARC 242"
+  ],
+  [],
+  [
+   "MCS 275MWF 13:00:00-13:50:00LH 312",
+   "MCS 275MWF 12:00:00-12:50:00LCA A002"
+  ],
+  [
+   "MATH 330MWF 10:00:00-10:50:00AH 310",
+   "MATH 517MWF 13:00:00-13:50:00TH 304"
+  ],
+  [
+   "STAT 101MWF 11:00:00-11:50:00LCF F003",
+   "STAT 130MWF 13:00:00-13:50:00LCD D005",
+   "STAT 381MWF 15:00:00-15:50:00LCD D004",
+   "STAT 382MWF 12:00:00-12:50:00TH 208"
+  ],
+  [
+   "MATH 215MWF 13:00:00-13:50:00AH 310",
+   "MATH 512MWF 14:00:00-14:50:00TH 304"
+  ],
+  [
+   "MATH 569MWF 10:00:00-10:50:00LH 215"
+  ],
+  [
+   "MATH 313MWF 11:00:00-11:50:00AH 303"
+  ],
+  [
+   "MATH 547MWF 11:00:00-11:50:00TH 305"
+  ],
+  [
+   "STAT 511MWF 14:00:00-14:50:00TH 219"
+  ],
+  [
+   "MATH 181MWF 13:00:00-13:50:00ARC 241",
+   "MATH 300M 12:00:00-12:50:00LH 201",
+   "MATH 300W 12:00:00-12:50:00LH 201",
+   "MATH 300W 10:00:00-10:50:00LH 104",
+   "MATH 300M 10:00:00-10:50:00LH 104"
+  ],
+  [
+   "MCS 421MWF 09:00:00-09:50:00AH 306",
+   "MCS 425MWF 10:00:00-10:50:00AH 306"
+  ],
+  [
+   "MATH 515MWF 10:00:00-10:50:00TH 308"
+  ],
+  [
+   "MATH 215MWF 13:00:00-13:50:00AH 306",
+   "MATH 215MWF 12:00:00-12:50:00AH 306"
+  ],
+  [],
+  [
+   "MATH 170MWF 10:00:00-10:50:00LCF F004",
+   "MATH 210MWF 08:00:00-08:50:00LCF F004",
+   "MATH 210MWF 09:00:00-09:50:00TH 219"
+  ],
+  [
+   "MATH 105MWF 12:00:00-12:50:00BH 208",
+   "MATH 121MWF 15:00:00-15:50:00BH 209",
+   "MATH 140WF 13:00:00-14:50:00SEO 600"
+  ],
+  [
+   "MTHT 411R 17:00:00-20:00:00SEO 600",
+   "MTHT 465W 17:00:00-19:50:00SEO 600",
+   "MTHT 468T 17:00:00-20:00:00SEO 600"
+  ],
+  [
+   "MATH 215MWF 12:00:00-12:50:00AH 307"
+  ],
+  [],
+  [
+   "MTHT 466M 17:00:00-20:00:00TH 207"
+  ],
+  [
+   "MATH 141WF 11:00:00-12:50:00SEO 600"
+  ],
+  [
+   "MATH 110MWF 12:00:00-12:50:00ARC 242",
+   "MATH 121MWF 10:00:00-10:50:00ARC 241"
+  ],
+  [
+   "MATH 110MWF 14:00:00-14:50:00LCD D004",
+   "MATH 110MWF 08:00:00-08:50:00LCF F006",
+   "MATH 160MWF 10:00:00-10:50:00LCF F003"
+  ],
+  [
+   "MATH 210MWF 10:00:00-10:50:00LCA A006",
+   "MCS 584MWF 12:00:00-12:50:00AH 302"
+  ],
+  [],
+  [
+   "MATH 430MWF 13:00:00-13:50:00LH 202"
+  ],
+  [],
+  [
+   "MCS 571MWF 09:00:00-09:50:00AH 302"
+  ],
+  [
+   "STAT 401MWF 11:00:00-11:50:00BH B6"
+  ],
+  [
+   "STAT 381MWF 09:00:00-09:50:00LCF F006",
+   "STAT 382MWF 11:00:00-11:50:00TH 208"
+  ],
+  [
+   "MATH 181MWF 09:00:00-09:50:00LCE E101",
+   "MATH 210MWF 10:00:00-10:50:00TH 219",
+   "MATH 210MWF 11:00:00-11:50:00SH 303"
+  ],
+  [
+   "MATH 220MWF 11:00:00-11:50:00LCF F004",
+   "MATH 220MWF 09:00:00-09:50:00LCD D005",
+   "MATH 220MWF 13:00:00-13:50:00SES 130"
+  ],
+  [
+   "MCS 541MWF 13:00:00-13:50:00AH 302"
+  ],
+  [],
+  [],
+  [
+   "MATH 320MWF 13:00:00-13:50:00LH 201"
+  ],
+  [
+   "MTHT 401M 13:00:00-15:50:00SEO 600",
+   "MTHT 438M 16:00:00-16:50:00AH 302",
+   "MTHT 439M 17:00:00-17:50:00AH 302"
+  ],
+  [],
+  [
+   "MATH 180MWF 10:00:00-10:50:00SES 201",
+   "MCS 260MWF 12:00:00-12:50:00LH 312",
+   "MCS 260MWF 09:00:00-09:50:00LH 312"
+  ],
+  [
+   "MATH 590MWF 10:00:00-10:50:00TH 300"
+  ],
+  [
+   "MATH 121MWF 14:00:00-14:50:00LCD D005",
+   "MATH 121MWF 12:00:00-12:50:00LCF F006",
+   "MATH 125MWF 16:00:00-16:50:00LCF F001"
+  ],
+  [
+   "MATH 215MWF 15:00:00-15:50:00AH 302"
+  ],
+  [
+   "MATH 210MWF 13:00:00-13:50:00GH 205"
+  ],
+  [
+   "MATH 125MWF 11:00:00-11:50:00LCF F006",
+   "MATH 210MWF 14:00:00-14:50:00GH 205",
+   "MATH 210MWF 09:00:00-09:50:00LH 120"
+  ],
+  [
+   "MATH 180MWF 14:00:00-14:50:00SES 201",
+   "MATH 180MWF 13:00:00-13:50:00SES 201",
+   "MATH 310MWF 16:00:00-16:50:00LCF F003"
+  ],
+  [
+   "MATH 310MWF 14:00:00-14:50:00LCB B101",
+   "MATH 310MWF 10:00:00-10:50:00LCF F006",
+   "MATH 310MWF 13:00:00-13:50:00LCD D004"
+  ],
+  [
+   "MATH 330MWF 09:00:00-09:50:00AH 310"
+  ],
+  [
+   "MATH 313MWF 09:00:00-09:50:00TH 207",
+   "MATH 576MWF 12:00:00-12:50:00TH 305"
+  ],
+  [
+   "MATH 553MWF 10:00:00-10:50:00TH 305"
+  ],
+  [
+   "MCS 401MWF 11:00:00-11:50:00LCC C001",
+   "MCS 501MWF 09:00:00-09:50:00AH 307",
+   "MCS 548MWF 14:00:00-14:50:00AH 311"
+  ],
+  [
+   "MATH 215MWF 14:00:00-14:50:00AH 310"
+  ],
+  [
+   "MCS 472MWF 12:00:00-12:50:00TH 300",
+   "MCS 572MWF 14:00:00-14:50:00AH 303"
+  ],
+  [
+   "MATH 313MWF 11:00:00-11:50:00AH 310"
+  ],
+  [
+   "STAT 481MWF 11:00:00-11:50:00LH 210",
+   "STAT 486MWF 09:00:00-09:50:00LH 304"
+  ],
+  [
+   "MATH 550MWF 12:00:00-12:50:00BSB 219"
+  ],
+  [
+   "MATH 090MWF 10:00:00-10:50:00AH 311",
+   "MATH 090MWF 12:00:00-12:50:00AH 311",
+   "MATH 090MWF 15:00:00-15:50:00AH 311",
+   "MATH 090MWF 08:00:00-08:50:00TH 207"
+  ],
+  [],
+  [
+   "STAT 522MWF 11:00:00-11:50:00AH 302"
+  ],
+  [
+   "STAT 401MWF 14:00:00-14:50:00TH 216",
+   "STAT 451MWF 12:00:00-12:50:00TH 204",
+   "STAT 536MWF 10:00:00-10:50:00AH 302"
+  ],
+  [
+   "MATH 215MWF 11:00:00-11:50:00AH 311"
+  ],
+  [
+   "STAT 385MWF 10:00:00-10:50:00AH 307"
+  ]
+ ],
+ "Link": [
+  "https://mscs.uic.edu/profiles/abramov/",
+  "https://mscs.uic.edu/profiles/dadrov1/",
+  "https://mscs.uic.edu/profiles/anudeep/",
+  "https://mscs.uic.edu/profiles/wash/",
+  "https://mscs.uic.edu/profiles/awanou/",
+  "https://mscs.uic.edu/profiles/bakker/",
+  "https://mscs.uic.edu/profiles/tomb/",
+  "https://mscs.uic.edu/profiles/bodem/",
+  "https://mscs.uic.edu/profiles/jbona/",
+  "https://mscs.uic.edu/profiles/mbridg5/",
+  "https://mscs.uic.edu/profiles/bcall/",
+  "https://mscs.uic.edu/profiles/amcastro/",
+  "https://mscs.uic.edu/profiles/acheskid/",
+  "https://mscs.uic.edu/profiles/cojocaru/",
+  "https://mscs.uic.edu/profiles/icoskun/",
+  "https://mscs.uic.edu/profiles/mdai/",
+  "https://mscs.uic.edu/profiles/sdevi/",
+  "https://mscs.uic.edu/profiles/vdiep3/",
+  "https://mscs.uic.edu/profiles/fdruec1/",
+  "https://mscs.uic.edu/profiles/ddumas/",
+  "https://mscs.uic.edu/profiles/ein/",
+  "https://mscs.uic.edu/profiles/dembers/",
+  "https://mscs.uic.edu/profiles/jfreitag/",
+  "https://mscs.uic.edu/profiles/furman/",
+  "https://mscs.uic.edu/profiles/greenbla/",
+  "https://mscs.uic.edu/profiles/dgroves/",
+  "https://mscs.uic.edu/profiles/hankh/",
+  "https://mscs.uic.edu/profiles/dingeb2/",
+  "https://mscs.uic.edu/profiles/visheshj/",
+  "https://mscs.uic.edu/profiles/ncjones/",
+  "https://mscs.uic.edu/profiles/kolga/",
+  "https://mscs.uic.edu/profiles/okhalil/",
+  "https://mscs.uic.edu/profiles/evangelo/",
+  "https://mscs.uic.edu/profiles/akurse2/",
+  "https://mscs.uic.edu/profiles/aleeha2/",
+  "https://mscs.uic.edu/profiles/nrlooper/",
+  "https://mscs.uic.edu/profiles/dibyen/",
+  "https://mscs.uic.edu/profiles/dbmartin/",
+  "https://mscs.uic.edu/profiles/maravmar/",
+  "https://mscs.uic.edu/profiles/alyciam/",
+  "https://mscs.uic.edu/profiles/mmeyer31/",
+  "https://mscs.uic.edu/profiles/michelen/",
+  "https://mscs.uic.edu/profiles/mubayi/",
+  "https://mscs.uic.edu/profiles/jnagloo/",
+  "https://mscs.uic.edu/profiles/nenciu/",
+  "https://mscs.uic.edu/profiles/davidn/",
+  "https://mscs.uic.edu/profiles/couyang/",
+  "https://mscs.uic.edu/profiles/jpajda2/",
+  "https://mscs.uic.edu/profiles/sharian/",
+  "https://mscs.uic.edu/profiles/vp20/",
+  "https://mscs.uic.edu/profiles/lreyzin/",
+  "https://mscs.uic.edu/profiles/juliusro/",
+  "https://mscs.uic.edu/profiles/schapos/",
+  "https://mscs.uic.edu/profiles/nschoc2/",
+  "https://mscs.uic.edu/profiles/eschub1/",
+  "https://mscs.uic.edu/profiles/shipleyb/",
+  "https://mscs.uic.edu/profiles/ashulm2/",
+  "https://mscs.uic.edu/profiles/shvydkoy/",
+  "https://mscs.uic.edu/profiles/gds1/",
+  "https://mscs.uic.edu/profiles/geoff/",
+  "https://mscs.uic.edu/profiles/sparber/",
+  "https://mscs.uic.edu/profiles/jbergen/",
+  "https://mscs.uic.edu/profiles/cstibitz/",
+  "https://mscs.uic.edu/profiles/nswitala/",
+  "https://mscs.uic.edu/profiles/rtakloo/",
+  "https://mscs.uic.edu/profiles/itobasco/",
+  "https://mscs.uic.edu/profiles/kftucker/",
+  "https://mscs.uic.edu/profiles/gyt/",
+  "https://mscs.uic.edu/profiles/wouter/",
+  "https://mscs.uic.edu/profiles/janv/",
+  "https://mscs.uic.edu/profiles/lietvo/",
+  "https://mscs.uic.edu/profiles/jiwang12/",
+  "https://mscs.uic.edu/profiles/kwhyte/",
+  "https://mscs.uic.edu/profiles/woldeit1/",
+  "https://mscs.uic.edu/profiles/yichaowu/",
+  "https://mscs.uic.edu/profiles/jyang06/",
+  "https://mscs.uic.edu/profiles/myang2/",
+  "https://mscs.uic.edu/profiles/wlzhang/",
+  "https://mscs.uic.edu/profiles/pszhong/"
+ ]
+}

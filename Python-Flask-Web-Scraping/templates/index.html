@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<head>
+<link rel = "stylesheet" type = "text/css"  href="{{ url_for('static', filename='style.css') }}">
+</head>
+<div class = "Top">
+
+<h1 align = "center"> MSCS WEB SCRAPING!!!!</h1>
+</div>
+
+<h2 align = "center"> <b> Enter the name of a Professor or Partial name of a Professor. Or enter the time of a class.</b>
+</h3>
+<h4 align = "center"> <i> Example: "j", "jb", "jbergen" for name or "09:00" or "15:00" for time.</h4></i>
+<div class = "Form">
+<h3> Search
+<palign = "center">
+<form name = "search", method = "post">
+
+
+<input type = "text" name = "textbox" placeholder = "SEARCH">
+<input type = "submit" value = "Go!"/>
+</h3>
+</p>
+
+<p align = "center">
+
+<input type = "radio" name = "fun" value = "teacher" checked = "checked"/> Teacher Name
+<input type = "radio" name = "fun" value = "schedule" /> Hour Search
+
+</p>
+</div>
+<p align = "left"><a href = "about.html"> About this Project</a></p> 
+</body>
+</html>

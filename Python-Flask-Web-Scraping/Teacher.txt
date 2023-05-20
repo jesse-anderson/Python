@@ -1,0 +1,1 @@
+[["John  Steenbergen"], ["jbergen@uic.edu"], [["MATH 125MWF 11:00:00-11:50:00LCF F006", "MATH 210MWF 14:00:00-14:50:00GH 205", "MATH 210MWF 09:00:00-09:50:00LH 120"]], ["https://mscs.uic.edu/profiles/jbergen/"]]

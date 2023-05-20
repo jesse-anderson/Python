@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<head>
+<link rel = "stylesheet" type = "text/css"  href="{{ url_for('static', filename='style.css') }}">
+</head>
+<div class = "Top">
+
+<h1 align = "center"> About Page!</h1>
+</div>
+
+<a href = "index.html"> Go back to main page</a>
+<p> My code works by querying the main MSCS <a href = 'https://mscs.uic.edu/people/faculty/' >page </a>
+then grabbing each Professor's data by way of getting to their personal page and extracting all relevant info such
+as their name, email, and teaching schedule. This information is saved into a JSON file which is later referenced in
+the Flask website framework. The user is prompted to enter either the email or a teaching time and the professor(s) who 
+matches either of those parameters is extracted from the JSON file and displayed. </p>
+
+<p>The main errors encountered here were related to data types and the flask framework. It was very difficult at times to get flask to work and it 
+had very specific requirements to get it to work. This was solved by looking into the documentation. The main stall that was hit was figuring out how to 
+fix the email extraction so it only displayed professor's emails and not all of the tags and such since .text() did not work. This was done using the regular expression module. The other battle was getting Flask's GET and POST requests to work.
+</p>
+
+<p>Often a single / or an error in a space would cause Flask or jinja to freak out and messed up parsing. But the code is able to display all professor names with a partial match and is also able to find class time using military time for example 09:00 or 15:00. The connection also times out in getting the requests for some reason as well. Most noticeable when browsing the web, specifically the uic site. </p>
